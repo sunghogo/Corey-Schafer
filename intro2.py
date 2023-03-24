@@ -1,3 +1,6 @@
+# L2: Strings - Working with Textual Data
+# https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=2&ab_channel=CoreySchafer
+
 from string import Template
 
 # Use Descriptive Variable Names
