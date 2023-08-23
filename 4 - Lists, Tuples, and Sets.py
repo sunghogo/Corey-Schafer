@@ -1,4 +1,4 @@
-# L4: Lists, Tuples, and Sets
+# Python Tutorial for Beginners 4: Lists, Tuples, and Sets
 # https://www.youtube.com/watch?v=W8KRzm-HUcc&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4&ab_channel=CoreySchafer
 
 # Declare and create lists
@@ -65,7 +65,7 @@ courses = ['History', 'Math', 'Physics', 'CompSci']
 courses.reverse()
 print(courses)
 
-# sort() defaults to alphabetical descending order
+# sort() defaults to alphabetical ascending A-Z order
 courses.sort()
 print(courses)
 
@@ -74,7 +74,7 @@ nums = [1, 5, 2, 4, 3]
 nums.sort()
 print(nums)
 
-# sort(reverse=True) to sort alphabetical ascending / numerical descending
+# sort(reverse=True) to sort alphabetical descending Z-A / numerical descending
 courses.sort(reverse=True)
 print(courses)
 nums.sort(reverse=True)
@@ -113,7 +113,7 @@ for item in courses:
 for course in courses:
     print(course)
 
-# Iteration by index; enumerate() outputs two values: index, value
+# Iteration by index; enumerate() outputs two values: index, value()
 for index, course in enumerate(courses):
     print(index, course)
 # Specify start by start=index option
@@ -193,7 +193,7 @@ empty_list = []
 empty_list = list()
 
 # Empty Tuples
-empty_tuple = {}
+empty_tuple = ()
 empty_tuple = tuple()
 
 # Empty Sets
