@@ -1,5 +1,5 @@
-# L3: Integers and FLoats - Working with Numeric Order
-# https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=4&ab_channel=CoreySchafer
+# Python Tutorial for Beginners 3: Integers and Floats - Working with Numeric Data
+# https://www.youtube.com/watch?v=khKv-8q7YmY&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=3&ab_channel=CoreySchafer
 
 # type() function gives data type of variable/value
 num = 3
