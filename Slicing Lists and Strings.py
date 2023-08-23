@@ -15,7 +15,7 @@ print(my_list[0:5], my_list[0:6], my_list[3:8], my_list[-7:-2])
 print(my_list[1: -2])
 # Access range going until the end of array
 print(my_list[1:], my_list[5:])
-# Access range starting from the start of array
+# Access range from the start of array to specified endpoint
 print(my_list[:-1])
 # Copy of the list
 print(my_list[:])
